@@ -35,5 +35,8 @@
     "@types/express": "^5.0.6",
     "@types/node": "^22.0.0",
     "typescript": "~5.9.3"
+  },
+  "overrides": {
+    "undici": ">=7.29.0"
   }
 }
